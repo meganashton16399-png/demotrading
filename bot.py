@@ -18,7 +18,7 @@ app = Flask(__name__)
 
 # --- Alpaca Paper Trading Connection ---
 market = ccxt.alpaca({
-    'apiKey': 'PKEDOK646QSYPMKIJCOLF5NGGE',
+    'apiKey': '646QSYPMKIJCOLF5NGGE',
     'secret': 'HWNi68ZoQrNvg5tqa2syUR2iqd2sx6qJzyrJ3WP25vL3',
     'urls': {
         'api': {'rest': 'https://paper-api.alpaca.markets'} 
