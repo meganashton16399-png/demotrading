@@ -3,3 +3,4 @@ ccxt
 groq
 flask
 pandas
+numpy
